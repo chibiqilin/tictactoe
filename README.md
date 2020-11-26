@@ -1,2 +1,2 @@
 # tictactoe
-Simple Java-based TicTacToe game using A* Search
+Simple Java TicTacToe game. Can be played with 2 players or against an AI opponent using Minimax algorithm.
